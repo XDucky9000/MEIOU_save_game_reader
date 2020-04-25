@@ -9,6 +9,7 @@ V 0.1: Set up basic systems, hack with XChart
 V 0.15: Added option to include subjects, heretics are now sorted under their own categories.
 V 0.2: Official release! You can now compare your nation to the rest of the world. Added an option to see production and cities.
 V 0.3: Updated to MEIOU And Taxes 2.5.2, added option to see nation size, fixed a bug involving preiously subjegated nations
+V 0.4: Updated to latest version, improved optimization, made reader more user friendly
 LICENSE: 
 
 https://www.youtube.com/watch?v=2t4VphTeogo
